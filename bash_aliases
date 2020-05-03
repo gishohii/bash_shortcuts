@@ -12,7 +12,7 @@ alias net='. net.sh'
 
 alias inet='. inet.sh'
 
-alias main='. basic.sh'
+alias root='. root_directory.sh'
 
 alias all='. listall.sh'
 
