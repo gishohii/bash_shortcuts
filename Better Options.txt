@@ -1,0 +1,3 @@
+I found out this is a long method.
+It's easier to make aliases in the .bash_aliases file in your home directory,
+than creating files and having to add them or parent directory to the sysetm execution PATH 
